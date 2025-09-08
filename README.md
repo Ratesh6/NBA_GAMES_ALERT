@@ -1,3 +1,5 @@
+![alt text](NBA_ALERT_SYSTEM_ARCHITECTURAL_DIAGRAM.png)
+
 NBA Game Day Alert System
 
 A real-time NBA score notification system built on AWS. Users receive live game updates via Email or SMS every 10 minutes. Even on days with no games, the system notifies users with a “No games today” message.GE
