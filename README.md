@@ -1,4 +1,4 @@
-![alt text](NBA_ALERT_SYSTEM_ARCHITECTURAL_DIAGRAM.png)
+c:\Users\Lenovo\Downloads\NBA_ALERT_SYSTEM_ARCHITECTURAL_DIAGRAM.png
 
 NBA Game Day Alert System
 
