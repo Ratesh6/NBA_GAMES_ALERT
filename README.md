@@ -1,4 +1,4 @@
-![alt text](NBA_ALERT_SYSTEM_ARCHITECTURAL_DIAGRAM.png)
+![alt text](image.png)
 
 NBA Game Day Alert System
 
